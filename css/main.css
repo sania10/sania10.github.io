@@ -9,3 +9,6 @@ p{
     background:cyan;
     color:green;
 }
+[disabled]{
+    color:springgreen;
+}
