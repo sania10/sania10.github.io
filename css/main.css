@@ -1,14 +1,25 @@
-p{
-    background: blue;
-    color:whitesmoke;
+.CV{
+    color:ghostwhite;
+    background:blueviolet;
+    text-align: center;
+    
 }
-.hell{
-    color:red;
+image.sania{
+    width:150px;
+    height:200px;
+    display:inline;
+    border-color:wheat;
 }
-#Messi{
-    background:cyan;
-    color:green;
-}
-[disabled]{
-    color:brown;
+
+.profileimg
+{
+    height: 200px;
+    width: 160px;
+    border-radius: 50%;
+    align-content: center;
+    vertical-align:center;
+    display:flex;
+    margin-top:10%;
+    margin-left: 40%;
+
 }
